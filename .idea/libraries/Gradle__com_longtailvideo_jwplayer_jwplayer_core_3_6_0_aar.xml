@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.longtailvideo.jwplayer:jwplayer-core:3.6.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jwplayer-core-3.6.0.aar/bf3698f0d9bdafe8d4554c73438b9b8d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
